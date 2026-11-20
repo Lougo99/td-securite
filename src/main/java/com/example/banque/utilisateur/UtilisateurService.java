@@ -1,7 +1,5 @@
-package com.example.banque.service;
+package com.example.banque.utilisateur;
 
-import com.example.banque.utilisateur.Utilisateur;
-import com.example.banque.utilisateur.UtilisateurRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
